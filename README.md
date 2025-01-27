@@ -1,4 +1,4 @@
-# CMSC389E Projects
+# CMSC389E Spring 2025
 
 This repository will contain the projects assigned to you during the course!
 
